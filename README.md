@@ -1,4 +1,4 @@
-# Casting Defect Detection
+m# Casting Defect Detection
 ## Based on data from Kaggle
 
 This system can detect any defect in casting process based on data.
@@ -53,4 +53,4 @@ You can find the database on this [link](https://www.kaggle.com/ravirajsinh45/re
 
 Happy predictions!!!
 
-Also, feel free to contact me via email (roxnazeer@gmail.com) if you have any suggestions for the model or you find a model better than this.
+Also, feel free to contact me via email (karthikeyan34354@gmail.com) if you have any suggestions for the model or you find a model better than this.
